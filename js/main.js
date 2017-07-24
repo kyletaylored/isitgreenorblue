@@ -35,7 +35,7 @@ function hexToRgb(hex) {
   			var isOk  = /(^#[0-9A-F]{6}$)|(^#[0-9A-F]{3}$)/i.test(color);
   			if (isOk) {
   				var rgb = hexToRgb(color);
-  				var text = "¯\_(ツ)_/¯";
+  				var text = "¯\\_(ツ)_/¯";
   				if (rgb) {
   					var insult = insults[Math.floor(Math.random() * insults.length)];
   					var bgClass = "white";
