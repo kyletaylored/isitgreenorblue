@@ -16,13 +16,13 @@
 title: Is It Green or Blue
 email: blueorgreen@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site serves one purpose and one purpose only - to determine is a color is blue or green.
+  This site serves one purpose and one purpose only - to determine if a color is blue or green.
 baseurl: "/isitgreenorblue" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kyletaylored
 github_username:  kyletaylored
 
-# google_analytics: 
+google_analytics: UA-36441409-4
 
 # Build settings
 markdown: kramdown
